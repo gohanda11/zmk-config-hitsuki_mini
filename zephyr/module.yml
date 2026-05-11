@@ -1,0 +1,4 @@
+name: hitsuki_mini
+build:
+  settings:
+    board_root: .

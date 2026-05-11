@@ -1,0 +1,5 @@
+config SHIELD_HITSUKI_MINI_R
+    def_bool $(shields_list_contains,hitsuki_mini_R)
+
+config SHIELD_HITSUKI_MINI_L
+    def_bool $(shields_list_contains,hitsuki_mini_L)

@@ -1,0 +1,22 @@
+if SHIELD_HITSUKI_MINI_R
+
+config ZMK_KEYBOARD_NAME
+    default "hitsuki_mini_R"
+
+config ZMK_SPLIT
+    default y
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_HITSUKI_MINI_L
+
+config ZMK_KEYBOARD_NAME
+    default "hitsuki_mini_L"
+
+config ZMK_SPLIT
+    default y
+
+endif

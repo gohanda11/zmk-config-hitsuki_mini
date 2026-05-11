@@ -1,0 +1,9 @@
+file_format: "1"
+id: hitsuki_mini
+name: HITSUKI_MINI
+type: shield
+url: https://github.com/gohanda11/zmk-config-hitsuki-mini
+requires: [xiao_ble]
+features:
+  - keys
+  - pointing
